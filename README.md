@@ -1,6 +1,6 @@
 # Hi 👋 I’m José Romero
 
-I’m currently learning jest  
+I'm a JavaScript Developer
 
 I’m currently looking for some interesting projects to work!
 
