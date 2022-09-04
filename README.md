@@ -1,7 +1,12 @@
-# Hi 👋 I’m José Romero
+<h3 align="center">
+  Welcome to José Romero's profile!
+</h2>
 
-I'm a JavaScript Developer
 
-I’m currently looking for some interesting projects to work!
+I'm  a self-taught JavaScript Developer
 
-I’m looking to collaborate on Open Source Projects
+I'm currently looking for some interesting projects to work!
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JosenRomero&show_icons=true&theme=nord)
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=JosenRomero&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
