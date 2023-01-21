@@ -3,7 +3,7 @@
 </h2>
 
 
-I'm  a self-taught JavaScript Developer
+I'm  a self-taught Frontend Developer
 
 I'm currently looking for some interesting projects to work!
 
